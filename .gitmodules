@@ -1,0 +1,6 @@
+[submodule "1-IVotedBadge/lib/forge-std"]
+	path = 1-IVotedBadge/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "1-IVotedBadge/lib/openzeppelin-contracts"]
+	path = 1-IVotedBadge/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
